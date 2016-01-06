@@ -44,7 +44,6 @@
 		<Item Name="readMotorPodMisc.vi" Type="VI" URL="../ConfigData/readMotorPodMisc.vi"/>
 		<Item Name="readMotorPodTurret.vi" Type="VI" URL="../ConfigData/readMotorPodTurret.vi"/>
 		<Item Name="Config_Global.vi" Type="VI" URL="../Variables/Config_Global.vi"/>
-		<Item Name="Pod.lvclass" Type="LVClass" URL="../Classes/Pod.lvclass"/>
 		<Item Name="writeDrive.vi" Type="VI" URL="../ConfigData/write/writeDrive.vi"/>
 		<Item Name="writeTurret.vi" Type="VI" URL="../ConfigData/write/writeTurret.vi"/>
 		<Item Name="writeMisc.vi" Type="VI" URL="../ConfigData/write/writeMisc.vi"/>
