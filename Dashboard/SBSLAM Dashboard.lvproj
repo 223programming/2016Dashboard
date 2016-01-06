@@ -36,6 +36,18 @@
 		<Item Name="readKey.vi" Type="VI" URL="../ConfigData/readKey.vi"/>
 		<Item Name="readMotorPodConfig.vi" Type="VI" URL="../ConfigData/readMotorPodConfig.vi"/>
 		<Item Name="Untitled 13" Type="VI"/>
+		<Item Name="readStringKey.vi" Type="VI" URL="../ConfigData/read/readStringKey.vi"/>
+		<Item Name="readDoubleKey.vi" Type="VI" URL="../ConfigData/read/readDoubleKey.vi"/>
+		<Item Name="readUniKey.vi" Type="VI" URL="../ConfigData/read/readUniKey.vi"/>
+		<Item Name="readI32.vi" Type="VI" URL="../ConfigData/read/readI32.vi"/>
+		<Item Name="readBooleanKey.vi" Type="VI" URL="../ConfigData/read/readBooleanKey.vi"/>
+		<Item Name="readMotorPodMisc.vi" Type="VI" URL="../ConfigData/readMotorPodMisc.vi"/>
+		<Item Name="readMotorPodTurret.vi" Type="VI" URL="../ConfigData/readMotorPodTurret.vi"/>
+		<Item Name="Config_Global.vi" Type="VI" URL="../Variables/Config_Global.vi"/>
+		<Item Name="Pod.lvclass" Type="LVClass" URL="../Classes/Pod.lvclass"/>
+		<Item Name="writeDrive.vi" Type="VI" URL="../ConfigData/write/writeDrive.vi"/>
+		<Item Name="writeTurret.vi" Type="VI" URL="../ConfigData/write/writeTurret.vi"/>
+		<Item Name="writeMisc.vi" Type="VI" URL="../ConfigData/write/writeMisc.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="IMAQ Create" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Create"/>
