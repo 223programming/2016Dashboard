@@ -1,10 +1,10 @@
 *
 !.gitignore
-/2016 Dashboard (adam)/*
-!/2016 Dashboard (adam)/*.vi
-!/2016 Dashboard (adam)/*.lvproj
-!/2016 Dashboard (adam)/*.ctl
-!/2016 Dashboard (adam)/Variables
-!/2016 Dashboard (adam)/ConfigData/
+/2016 Dashboard/*
+!/2016 Dashboard/*.vi
+!/2016 Dashboard/*.lvproj
+!/2016 Dashboard/*.ctl
+!/2016 Dashboard/Variables
+!/2016 Dashboard/ConfigData/
 !/.git
 !*.txt
