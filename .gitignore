@@ -1,4 +1,6 @@
 *.lvlps
 *.aliases
+*.lvproj
 FRCVersion.txt
 .gitignore
+README.md
